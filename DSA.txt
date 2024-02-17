@@ -1,11 +1,4 @@
-
---------- Data Structures and Algorithms in Java --------------
-
-THIS REPOSITORY FOLLOWS BROCODE'S DSA IN JAVA TUTORIAL https://www.youtube.com/watch?v=CBYHwZcbD-s&ab_channel=BroCode
-
-NOTES MADE BY ME FOR REVIEW AND LEARNING PURPOSES ONLY.
-
-What this Repository Covers
+What this Folder covers
 
 1. Basic data structures
 2. Big O Notation
